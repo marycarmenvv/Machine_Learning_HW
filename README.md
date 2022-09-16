@@ -29,6 +29,8 @@ Entregable: Implementación de una técnica de aprendizaje máquina sin el uso d
 * Sex:  Mujer Esperado:   1 Predecido:  0
 
 Correciones: 
-* Se agregó métrica para evaluar desempeño
-* Se agregaron 5 predicciones de prueba
-* Se creó un READ.ME
+* Se creó un READ.ME que contiene:
+  * Métrica para evaluar desempeño
+  * Se agregaron 5 predicciones de prueba
+  * Dataset usado
+
