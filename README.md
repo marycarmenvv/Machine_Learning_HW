@@ -21,7 +21,6 @@ Entregable: Implementación de una técnica de aprendizaje máquina sin el uso d
 
 ## 5 pruebas de predicciones:
 
-- Sex: "0" Mujer, "1" Hombre
 - Para predecir la supervivencia, "1" Survided, "0" Not survived
 * Sex:  Hombre Esperado:  0 Predecido:  0
 * Sex:  Hombre Esperado:  0 Predecido:  0
