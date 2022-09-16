@@ -15,3 +15,16 @@ Entregable: Implementación de una técnica de aprendizaje máquina sin el uso d
 * Tu implementación debe de poder correr por separado solamente con un compilador, no debe de depender de un IDE o de un “notebook”. Por ejemplo, si programas en Python, tu implementación final se espera que esté en un archivo .py no en un Jupyter Notebook.
 * Después de la entrega intermedia se te darán correcciones que puedes incluir en tu entrega final.
 
+## Dataset: train.csv del Titanic
+
+## Accuracy: 0.78
+
+## 5 pruebas de predicciones:
+
+Sex: "0" Mujer, "1" Hombre
+Para predecir la supervivencia, "1" Survided, "0" Not survived
+Sex:  Hombre Actual:  0 Real:  0
+Sex:  Hombre Actual:  0 Real:  0
+Sex:  Mujer Actual:   1 Real:  1
+Sex:  Mujer Actual:   0 Real:  0
+Sex:  Mujer Actual:   1 Real:  0
